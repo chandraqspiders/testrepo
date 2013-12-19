@@ -8,6 +8,7 @@ public class NewTest {
   @Test
   public void f() {
 	  System.out.println("This runs");
+	  //code goes here
 	  WebDriver driver = new FirefoxDriver();	  
   }
 }
